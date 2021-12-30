@@ -1,1 +1,0 @@
-{"version":3,"file":"articles.js","sourceRoot":"","sources":["../../../src/api/routes/articles.ts"],"names":[],"mappings":";;;;;;;;;;;;AAEA,oCAAoC;AAG7B,MAAM,WAAW,GAAG,CAAO,GAAY,EAAyB,EAAE;IACvE,MAAM,IAAI,GAAG,MAAM,IAAA,gBAAQ,EAAC,EAAE,CAAC,CAAC;IAEhC,OAAO;QACL,IAAI,EAAE,GAAG,CAAC,GAAG;QACb,KAAK,EAAE,IAAI;KACZ,CAAC;AACJ,CAAC,CAAA,CAAC;AAPW,QAAA,WAAW,eAOtB"}
